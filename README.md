@@ -1,7 +1,5 @@
 ## Hi there, I'm Haribalan N P! 👋
 
-![Profile Banner](https://source.unsplash.com/1600x500/?technology,coding)
-
 ---
 
 ### 🚀 About Me
