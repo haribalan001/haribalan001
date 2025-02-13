@@ -20,9 +20,6 @@ I am a passionate **Computer Science Engineer** with expertise in **C, Python, a
 ---
 
 ### 💼 Projects
-<div align="center">
-  <img src="https://source.unsplash.com/800x400/?coding,project" alt="Project Banner" />
-</div>
 
 🔹 **Peer-to-Peer Car Lending Website**  
 🛠 Developed a seamless car-sharing platform with a **dynamic listing system** and **secure data handling**.  
